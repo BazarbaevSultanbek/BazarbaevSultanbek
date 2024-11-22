@@ -3,7 +3,7 @@
 ## About Me
 Hi! I'm Sultanbek, a passionate developer who loves learning new skills. 🌟
 
-- 🌱 I’m currently learning <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/></a>.
+- 🌱 I’m currently learning <a href="https://nextjs.org/" target="_blank">Next.js</a>.
 - 📫 Reach me at: **bazarbaeoff@gmail.com**
 - 🐙 Fun fact: I always listen music and watch anime.
 - 📋 My CV file: **<a href="./CV.pdf">CV.pdf</a>**
@@ -44,6 +44,6 @@ Hi! I'm Sultanbek, a passionate developer who loves learning new skills. 🌟
     <a href = "https://www.linkedin.com/in/sultanbek-bazarbaev-097b6b260"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href = "https://t.me/pisces_shady"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/></a>
     <a href = "https://instagram.com/pisces.shady/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>    
-    <a href = "bazarbaeoff@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>    
+    <a href = "bazarbaeoff@gmail.com"><img src="https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon-thumbnail.png"/></a>    
 </p>
 
