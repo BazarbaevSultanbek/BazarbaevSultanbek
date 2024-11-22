@@ -41,11 +41,8 @@
 ## 📊 GitHub Stats 
 
 <p align="center">
-    <img alt="Neytrowd github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neytrowd&theme=github_dark" />
+    <img alt="Neytrowd github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BazarbaevSultanbek&theme=github_dark" />
 </p>
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=BazarbaevSultanbek&show_icons=true&theme=radical)
-
 
 |<img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BazarbaevSultanbek&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=#3b7fd5" /> | <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BazarbaevSultanbek&theme=react&hide_border=true&stroke=0000&background=0D1117&color=#3b7fd5"/> |
 | ------------- | ------------- |
