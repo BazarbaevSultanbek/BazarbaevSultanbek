@@ -1,17 +1,25 @@
-# Welcome to My GitHub! 👋
+<h1 align='center'>Hi! I'm Sultanbek, Welcome to My GitHub! 👋</h1>
 
-## About Me
-Hi! I'm Sultanbek, a passionate developer who loves learning new skills. 🌟
+<h3 align="center">I am a passionate Frontend developer who loves learning new skills. 🌟</h3>
 
-- 🌱 I’m currently learning <a href="https://nextjs.org/" target="_blank">Next.js</a>.
+
+
+
+## 🙋‍♂️ About Me
+
+
+- 🌱 I’m currently learning **Next.js**.
 - 📫 Reach me at: **bazarbaeoff@gmail.com**
-- 🐙 Fun fact: I always listen music and watch anime.
+- 🐙 Fun fact:**I always listen music and watch anime**.
 - 📋 My CV file: **<a href="./CV.pdf">CV.pdf</a>**
 
 ---
 
-## My Skills 🚀
+## 🚀 My Skills 
+
+
 - **Languages and Tools:**
+
 <p align="center">
  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
 <a href="https://w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
@@ -30,20 +38,29 @@ Hi! I'm Sultanbek, a passionate developer who loves learning new skills. 🌟
 
 ---
 
-## GitHub Stats 📊
+## 📊 GitHub Stats 
+
+<p align="center">
+    <img alt="Neytrowd github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neytrowd&theme=github_dark" />
+</p>
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=BazarbaevSultanbek&show_icons=true&theme=radical)
+
+
+|<img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BazarbaevSultanbek&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=#3b7fd5" /> | <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BazarbaevSultanbek&theme=react&hide_border=true&stroke=0000&background=0D1117&color=#3b7fd5"/> |
+| ------------- | ------------- |
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BazarbaevSultanbek&layout=compact)
 
 ---
 
-## Contact Me 📫
+## 📫 Contact Me 
 
 
 <p align="left">
     <a href = "https://www.linkedin.com/in/sultanbek-bazarbaev-097b6b260"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href = "https://t.me/pisces_shady"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/></a>
-    <a href = "https://instagram.com/pisces.shady/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>    
-    <a href = "bazarbaeoff@gmail.com"><img src="https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon-thumbnail.png"/></a>    
+    <a href = "https://instagram.com/pisces.shady/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>            
 </p>
 
