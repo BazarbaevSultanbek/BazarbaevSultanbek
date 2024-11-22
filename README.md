@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Next.js**.
 - 📫 Reach me at: **bazarbaeoff@gmail.com**
 - 🐙 Fun fact:**I always listen music and watch anime**.
-- 📋 My CV file: **<a href="./CV.pdf">CV.pdf</a>**
+- 📋 My CV file: **<a href="./Bazarbaev CV.pdf">CV.pdf</a>**
 
 ---
 
