@@ -48,9 +48,8 @@
 | ------------- | ------------- |
 
 
-<p align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BazarbaevSultanbek&layout=compact)
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BazarbaevSultanbek&layout=compact" alt="Most Used Languages" align="center"/>
 
 ---
 
